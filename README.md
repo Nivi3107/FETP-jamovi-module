@@ -89,7 +89,7 @@ The FETP module provides comprehensive epidemic curve analysis tools specificall
 
 - **Issues**: [GitHub Issues](https://github.com/YourUsername/FETP-jamovi-module/issues)
 - **Email**: drnivenkrishnan@gmail.com
-- **FETP Community**: Link to your training program
+- **FETP Community**: https://ncdc.mohfw.gov.in/
 
 ## 📄 License
 
